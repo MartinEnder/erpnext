@@ -23,7 +23,7 @@ Um einen Nummernkreis einzustellen, gehen Sie zu:
 
 In diesem Formular,
 
-1\. Wählen Sie die Transaktion aus, für die Sie den Nummernkreis einstellen wollen. Das System wird den aktuellen Nummernkreis in der Textbox aktualisieren.
+1\. Wählen Sie die Transaktion aus, für die Sie den Nummernkreis einstellen wollen. Das System aktualisiert dann den aktuellen Nummernkreis in der Textbox.
 
 2\. Passen Sie den Nummernkreis nach Ihren Wünschen mit eindeutigen Präfixen an. Jedes Präfix muss in einer neuen Zeile stehen.
 
